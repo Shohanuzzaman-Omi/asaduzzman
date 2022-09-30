@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.marge{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+a{
+  text-decoration: none;
+}
+.banner-sec{
+  background-image: url(media/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+body{
+  background-image: url(media/pngw.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.instagram{
+  color: #ff096f;
+}
+.linkedin{
+  color: rgb(43, 57, 255);
+}
+.svg-digi{
+  margin-right: 10px;
+}
+.card-digi{
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.space{
+  height: 1px;
+  width: 100%;
+  background-color: lightgray;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.banner-sec2{
+  background-image: url(media/work.png);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: left;
+}
