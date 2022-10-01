@@ -30,13 +30,6 @@ body{
   border: 1px solid black;
   border-radius: 5px;
 }
-.space{
-  height: 1px;
-  width: 100%;
-  background-color: lightgray;
-  margin-bottom: 50px;
-  margin-top: 50px;
-}
 .banner-sec2{
   background-image: url(media/work.png);
   background-size: 20%;
