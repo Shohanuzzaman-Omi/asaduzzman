@@ -43,3 +43,31 @@ body{
   background-repeat: no-repeat;
   background-position: left;
 }
+.banner-item{
+  position: absolute;
+  display: none;
+}
+
+
+@media (max-width: 600px) {
+
+  .banner-img{
+    position: absolute;
+    display: none;
+  }
+
+  .banner-item{
+    display: contents;
+    width: 50%;
+  }
+  .banner-sec2{
+    background: none;
+  }
+  .banner-sec{
+    background: none;
+  }
+  .bg-set{
+    background-color: rgb(243, 243, 243);
+    background-image: none;
+  }
+}
