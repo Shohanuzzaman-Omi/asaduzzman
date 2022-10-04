@@ -41,7 +41,6 @@ body{
 }
 /* .banner-sec2{
   background-image: url(media/work.png);
-  height: auto;
   background-size: 20%;
   background-repeat: no-repeat;
   background-position: left;
@@ -70,8 +69,8 @@ body{
   .banner-sec{
     background: none;
   }
-  .bg-set{
+  /* .bg-set{
     background-color: rgb(243, 243, 243);
     background-image: none;
-  }
+  } */
 }
