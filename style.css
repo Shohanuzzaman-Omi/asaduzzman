@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
 
 .marge{
   margin-top: 2rem;
@@ -13,8 +14,9 @@ a{
   text-decoration: none;
 }
 .nav-link:hover{
-  color: tomato;
+  color: rgb(223, 123, 106);
   transition: 0.5s;
+  text-decoration: underline;
 }
 .banner-sec{
   background-image: url(media/exp-bg.png);
@@ -49,7 +51,10 @@ body{
   position: absolute;
   display: none;
 }
-
+.back-top{
+  text-align: right;
+  color: tomato;
+}
 
 @media (max-width: 600px) {
 
