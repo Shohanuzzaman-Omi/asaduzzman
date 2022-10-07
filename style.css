@@ -55,12 +55,12 @@ body{
   text-align: right;
   color: tomato;
 }
-.no-more{
+/* .no-more{
   text-align: center;
   color: gray;
   font-size: smaller;
   text-decoration: underline;
-}
+} */
 @media (max-width: 600px) {
 
   .banner-img{
