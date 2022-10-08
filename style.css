@@ -30,6 +30,7 @@ body{
 .bg-art{
   background-image: url(media/bg-set.png);
   background-size: 100%;
+  background-color: gray;
 }
 .instagram{
   color: #ff096f;
